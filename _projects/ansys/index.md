@@ -9,12 +9,4 @@ skills:
 - PISO & SIMPLE Numerical Methods
 - Problem Solving
 main-image: /ansys_1.png
-## Geometry & Mesh
-- Created a 2D domain with a circular cylinder in the center.
-- Meshed it finely near the cylinder using inflation layers to capture boundary layer effects.
-## Boundary Conditions
-- Inlet: uniform velocity of 1 m/s.
-- Outlet: pressure outlet (0 Pa).
-- Top/Bottom: symmetry boundaries.
-- Cylinder: no-slip wall.
 ---
